@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.image {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+.wish {
+    position: absolute;
+    font-size: 10em;
+    top: 60%;
+    padding-left: 200px;
+    color: #ffffff;
+    letter-spacing: 2px;
+    font-family: Lobster;
+}
+
+.arrow {
+    color: #ffffff;
+    font-size: 8em;
+    position: absolute;
+    top: 77%;
+    padding-left: 90%;
+}
+
+
+.fun {
+    color: #000000;
+    position: absolute;
+    top: 55%;
+    padding-left: 80px;
+    font-size: 4em;
+}
+
+.tonight {
+    color: #000000;
+    position: absolute;
+    top: 70%;
+    padding-left: 80px;
+    font-size: 4em;
+}
+
+.shot {
+  position: absolute;
+  top: 36%;
+  font-size: 5em;
+  padding-left: 75%;
+  padding-right: 10%;
+}
+
+.present {
+    position: absolute;
+    color: #000000;
+    top: 43%;
+    font-size: 3.1em;
+    padding-right: 10%;
+    padding-left: 82%;
+}
+
+.arrow2 {
+    color: #ffffff;
+    font-size: 5em;
+    position: absolute;
+    top: 82%;
+    padding-left: 93%;
+}
+
+.wait {
+    color: #ffffff;
+    font-size: 5em;
+    position: absolute;
+    top: 70%;
+    padding-left: 20%;
+
+}
+.canada {
+     color: #ffffff;
+    font-size: 5em;
+    position: absolute;
+    top: 60%;
+    padding-left: 9%;
+
+}
